@@ -704,6 +704,7 @@
 - Uma slice agrupa valores de um único tipo.
 - Criando uma slice: literal composta → x := []type{values}
 - Go Playground: https://play.golang.org/p/W7Cxm8NPZC
+- Video: https://youtu.be/MMzTlWZ9Gjw?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg
 
 ### Slice: for range
 
